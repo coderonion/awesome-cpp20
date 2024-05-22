@@ -8,8 +8,9 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
   - [Contents](#contents)
   - [Summary](#summary)
     - [Learning Resources](#learning-resources)
-
-
+  - [Parallel and Async Library](#parallel-and-async-library)
+  - [Scientific Computation](#scientific-computation)
+    - [Optimization Framework](#optimization-framework)
 
 ## Summary
   - ### Learning Resources
@@ -31,3 +32,15 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
     - [rutura/The-C-20-Masterclass-Source-Code](https://github.com/rutura/The-C-20-Masterclass-Source-Code) <img src="https://img.shields.io/github/stars/rutura/The-C-20-Masterclass-Source-Code?style=social"/> : Source code for the C++ 20 Masterclass on udemy. [The C++20 Masterclass : From Fundamentals to Advanced](https://www.udemy.com/course/the-modern-cpp-20-masterclass/?couponCode=ENDSEPT2021)
 
 
+## Parallel and Async Library
+
+  - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp) <img src="https://img.shields.io/github/stars/David-Haim/concurrencpp?style=social"/> : Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all.
+
+  - [DeveloperPaul123/thread-pool](https://github.com/DeveloperPaul123/thread-pool) <img src="https://img.shields.io/github/stars/DeveloperPaul123/thread-pool?style=social"/> : A modern, fast, lightweight thread pool library based on C++20. [DeveloperPaul123.github.io/thread-pool](https://developerpaul123.github.io/thread-pool)
+
+
+## Scientific Computation
+
+  - ### Optimization Framework
+
+    - [DeveloperPaul123/genetic](https://github.com/DeveloperPaul123/genetic) <img src="https://img.shields.io/github/stars/DeveloperPaul123/genetic?style=social"/> : A performant and flexible genetic algorithm implemented in C++20/23. 
