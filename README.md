@@ -138,6 +138,7 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
     - [2024-05-08，全面解析C++11与C++20线程(含内容)](https://mp.weixin.qq.com/s/xtaTqqf3Y2RFPm2mrA-0Qg)
     - [2024-05-27，C++20实战之channel](https://mp.weixin.qq.com/s/spHtymMAEkTw3c5uN9cXKQ)
     - [2024-06-28，项目包管理工具之零基础入门Conan](https://mp.weixin.qq.com/s/xaKNkxJPLNnLc7pwaEfPrg)
+    - [2024-07-08，C++20之lambda模版](https://mp.weixin.qq.com/s/Zgf0tSJcIdIPzfXNjDkq0Q)
   - 微信公众号「CPP全栈架构师」
     - [2024-06-11，现代C++：C++ 20新特性总结](https://mp.weixin.qq.com/s/UbCEkLiNe_S6R2GrcOY32g)
   - 微信公众号「coding日记」
