@@ -153,3 +153,15 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
   - 微信公众号「Lion 莱恩呀」
     - [2024-04-13，掌握现代 C++：Lambda 在 C++14、C++17 和 C++20 中的演变](https://mp.weixin.qq.com/s/Xzt6VW1jVdY_8bA7M3iarA)
     - [2024-06-03，C++20 范围（Range）：简化集合操作](https://mp.weixin.qq.com/s/JA6nO22n2F_5V05xWFMQ2Q)
+  - 微信公众号「ENG八戒」
+    - [2024-11-23，C++26: 下一代 C++ 标准](https://mp.weixin.qq.com/s/XALbrowZCCFJm41fUtczig)
+    - [2024-12-05，C++26 抢先看~](https://mp.weixin.qq.com/s/VAWsJnd52MUBK3OzmrxtwQ)
+  - 微信公众号「CPP与系统软件联盟」
+    - [2024-08-14，从 C++17、C++20 到 C++23，不断进阶的枚举类！](https://mp.weixin.qq.com/s/SGzuqGlFINhigL420-iCBA)
+  - 微信公众号「AI让生活更美好」
+    - [2024-03-22，八个 C++ 开源项目，帮助初学者进阶成长](https://mp.weixin.qq.com/s/lJSuq59Wez-fEE9NQhqSeA)
+    - [2024-05-10，C++力量与灵活性的完美结合](https://mp.weixin.qq.com/s/2PbUSgvNzRyoORD7cDBk8g)
+  - 微信公众号「蒙卡模拟与编程技术杂谈」
+    - [2024-05-17，Conan：C/C++语言的依赖项和包管理器](https://mp.weixin.qq.com/s/pCcOZsiO03GLTscLLtMkHA)
+  - 微信公众号「码尘」
+    - [2024-04-19，C++20 Coroutine 实战](https://mp.weixin.qq.com/s/1vR-jfgunUfSw-MgWEnckg)
