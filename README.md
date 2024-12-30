@@ -17,6 +17,9 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
   - [Test Framework](#test-framework)
   - [Serialization Library](#serialization-library)
   - [Argument Parser](#argument-parser)
+  - [Database](#database)
+  - [Robotics](#robotics)
+  - [GUI](#gui)
   - [Blogs](#blogs)
 
 
@@ -41,6 +44,12 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
     - [Apress/design-patterns-modern-cpp20](https://github.com/Apress/design-patterns-modern-cpp20) <img src="https://img.shields.io/github/stars/Apress/design-patterns-modern-cpp20?style=social"/> : This repository accompanies [Design Patterns in Modern C++20](https://link.springer.com/book/10.1007/978-1-4842-7295-4) by Dmitri Nesteruk (Apress, 2022).
 
     - [rutura/The-C-20-Masterclass-Source-Code](https://github.com/rutura/The-C-20-Masterclass-Source-Code) <img src="https://img.shields.io/github/stars/rutura/The-C-20-Masterclass-Source-Code?style=social"/> : Source code for the C++ 20 Masterclass on udemy. [The C++20 Masterclass : From Fundamentals to Advanced](https://www.udemy.com/course/the-modern-cpp-20-masterclass/?couponCode=ENDSEPT2021)
+
+    - [burlachenkok/CPP_from_1998_to_2020](https://github.com/burlachenkok/CPP_from_1998_to_2020) <img src="https://img.shields.io/github/stars/burlachenkok/CPP_from_1998_to_2020?style=social"/> : Technical Note: From C++98 to C++2x.
+
+    - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) <img src="https://img.shields.io/github/stars/ashvardanian/less_slow.cpp?style=social"/> : Learning how to write "Less Slow" code in C++20, from numerical micro-kernels and SIMD to coroutines, ranges, and polymorphic state machines. [ashvardanian.com/tags/less-slow/](https://ashvardanian.com/tags/less-slow/)
+
+
 
 
 
@@ -84,6 +93,8 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
 
 ## Game Engine
 
+  - [Siv3D](https://github.com/Siv3D/OpenSiv3D) <img src="https://img.shields.io/github/stars/Siv3D/OpenSiv3D?style=social"/> : C++20 framework for creative coding 🎮🎨🎹 / Cross-platform support (Windows, macOS, Linux, and the Web). [siv3d.github.io/](https://siv3d.github.io/)
+
   - [mogemimi/pomdog](https://github.com/mogemimi/pomdog) <img src="https://img.shields.io/github/stars/mogemimi/pomdog?style=social"/> : An open source game engine for C++20 🐶 🎮
 
   - [BEASTSM96/Saturn-Engine](https://github.com/BEASTSM96/Saturn-Engine) <img src="https://img.shields.io/github/stars/BEASTSM96/Saturn-Engine?style=social"/> : A C++20 vulkan game engine.
@@ -116,6 +127,25 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
 ## Argument Parser
 
   - [SpectraL519/cpp-ap](https://github.com/SpectraL519/cpp-ap) <img src="https://img.shields.io/github/stars/SpectraL519/cpp-ap?style=social"/> : Argument Parser for C++20.
+
+
+
+## Database
+
+  - [Infinity](https://github.com/infiniflow/infinity) <img src="https://img.shields.io/github/stars/infiniflow/infinity?style=social"/> : The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text. [infiniflow.org](https://infiniflow.org/)
+
+
+## Robotics
+
+  - [AimRT](https://github.com/AimRT/AimRT) <img src="https://img.shields.io/github/stars/AimRT/AimRT?style=social"/> : A high-performance runtime framework for modern robotics. [aimrt.org](https://aimrt.org/)
+
+
+
+## GUI
+
+  - [Brisk](https://github.com/brisklib/brisk) <img src="https://img.shields.io/github/stars/brisklib/brisk?style=social"/> :Cross-platform C++20 GUI framework featuring MVVM architecture, reactive capabilities, and scalable, accelerated GPU rendering. [brisklib.com](https://brisklib.com/)
+
+
 
 
 
