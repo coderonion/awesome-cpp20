@@ -81,6 +81,8 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
 
   - [jbaldwin/libcoro](https://github.com/jbaldwin/libcoro) <img src="https://img.shields.io/github/stars/jbaldwin/libcoro?style=social"/> : C++20 coroutine library.
 
+  - [isndev/qb](https://github.com/isndev/qb) <img src="https://img.shields.io/github/stars/isndev/qb?style=social"/> : C++20 actor framework with lock-free messaging between cores, asynchronous I/O and coroutines, on x86-64 and arm64.
+
 
 
 
@@ -133,6 +135,10 @@ This repository lists some awesome public projects about C++20, C++23, C++26 and
 ## Database
 
   - [Infinity](https://github.com/infiniflow/infinity) <img src="https://img.shields.io/github/stars/infiniflow/infinity?style=social"/> : The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text. [infiniflow.org](https://infiniflow.org/)
+
+  - [isndev/qbm-pgsql](https://github.com/isndev/qbm-pgsql) <img src="https://img.shields.io/github/stars/isndev/qbm-pgsql?style=social"/> : Asynchronous PostgreSQL client for qb, without libpq, with C++20 coroutines.
+
+  - [isndev/qbm-redis](https://github.com/isndev/qbm-redis) <img src="https://img.shields.io/github/stars/isndev/qbm-redis?style=social"/> : Asynchronous Redis client for qb with RESP3, pub/sub and streams, with C++20 coroutines.
 
 
 ## Robotics
